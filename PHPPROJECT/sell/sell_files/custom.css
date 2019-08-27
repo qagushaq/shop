@@ -1,0 +1,94 @@
+.slogan-checkout {
+color: white;
+}
+
+.slogan-complete {
+color: white;
+}
+
+.slogan-cart {
+color: white;
+}
+
+.btnmarginhire {
+margin: 0 auto;
+display: table;
+}
+
+.boostmmrzap p {
+font-size: 16px !important;
+}
+
+.noUi-connect {
+background: #7caf00 !important;
+}
+
+.slider.banners:hover .next {
+opacity: 1;
+}
+
+.texthowto {
+vertical-align: middle;
+}
+
+.slider-container {
+margin-bottom: -25px;
+}
+
+.selectboost option {
+padding-left: 45%; !important
+font-size: 50px; !important
+}
+
+.boostzag {
+font-size: 40px; !important
+}
+
+.mainborder1 {
+border-right: 10px solid white;
+border-bottom: 10px solid white;
+}
+
+.mainborder2 {
+border-bottom: 10px solid white;
+}
+
+
+.mainborder3 {
+border-left: 10px solid white;
+border-bottom: 10px solid white;
+}
+
+.mainborder3p {
+color: #ffffff; !important
+}
+
+.quantity_label {
+display: none;
+}
+
+.tmcp-field {
+height: 40px;
+font-size: 18px;
+font-weight: bold;
+color: black;
+}
+
+
+.tmcp-field option {
+padding-left: 45% !important;
+font-size: 15px !important;
+}
+
+.tm-epo-field-label {
+color: black;
+}
+
+.selectboost {
+color: black;
+font-size: 18px !important;
+}
+
+.required {
+font-size: 20px !important;
+}
